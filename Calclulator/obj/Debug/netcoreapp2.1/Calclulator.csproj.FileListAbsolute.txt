@@ -1,0 +1,11 @@
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\bin\Debug\netcoreapp2.1\Calclulator.deps.json
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\bin\Debug\netcoreapp2.1\Calclulator.runtimeconfig.json
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\bin\Debug\netcoreapp2.1\Calclulator.runtimeconfig.dev.json
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\bin\Debug\netcoreapp2.1\Calclulator.dll
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\bin\Debug\netcoreapp2.1\Calclulator.pdb
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\obj\Debug\netcoreapp2.1\Calclulator.csprojAssemblyReference.cache
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\obj\Debug\netcoreapp2.1\Calclulator.csproj.CoreCompileInputs.cache
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\obj\Debug\netcoreapp2.1\Calclulator.AssemblyInfoInputs.cache
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\obj\Debug\netcoreapp2.1\Calclulator.AssemblyInfo.cs
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\obj\Debug\netcoreapp2.1\Calclulator.dll
+C:\Users\NCTC-Safdar\source\repos\Calclulator\Calclulator\obj\Debug\netcoreapp2.1\Calclulator.pdb
